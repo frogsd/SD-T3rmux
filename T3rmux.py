@@ -18,7 +18,7 @@ def menu():
 ========================================
 Created By Moaid BLACKHAT
 Channel: https://www.youtube.com/channel/UC3QC6KPovZWPsMG5NpUWD
-our site : https://www.world-blackhat.ga 
+our site : https://www.blackhat-x4.ga
 Ver: 1.0
 ----
 ONLY FOR TERMUX!

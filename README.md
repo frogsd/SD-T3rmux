@@ -5,7 +5,7 @@ Automatic hacking tools installer for Android [ONLY FOR TERMUX]
 
 
 
-Visit our website   https://www.world-blackhat.ga 
+Visit our website   https://www.blackhat-x4.ga
 
 
 This script is designed by Moaid Blackhat
